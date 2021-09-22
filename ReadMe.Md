@@ -60,8 +60,8 @@ To get started with the project, go to the workspace on the next page, where you
 
 Alternatively, you can download the template files in the Resources tab in the classroom and work on this project on your local computer.
 
-The project template includes three files:
+The project  includes files:
 
 - `etl.py` reads data from S3, processes that data using Spark, and writes them back to S3
-- `dl.cfgcontains` your AWS credentials 
+
 - `README.md` provides discussion on your process and decisions
