@@ -65,3 +65,8 @@ The project  includes files:
 - `etl.py` reads data from S3, processes that data using Spark, and writes them back to S3
 
 - `README.md` provides discussion on your process and decisions
+
+
+<br>
+<br>
+Execute from command pip install -r 
